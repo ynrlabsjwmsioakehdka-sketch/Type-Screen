@@ -1,0 +1,5 @@
+{
+  "name": "RetroTypist Beeper",
+  "description": "A retro-styled typewriter application that generates draggable paper cards with a typing effect, featuring AI-powered vintage text enhancement.",
+  "requestFramePermissions": []
+}
